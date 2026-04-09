@@ -70,18 +70,18 @@ data:
                         <p>代码仓库管理</p>
                     </div>
                 </div>
-                <div class="grid-item" data-url="https://jenkins.example.com">
+                <div class="grid-item" data-url="https://yindan.209173.xyz/jenkins/">
                     <div class="grid-content">
                         <div class="icon">🔄</div>
                         <h3>Jenkins</h3>
                         <p>持续集成</p>
                     </div>
                 </div>
-                <div class="grid-item" data-url="https://business1.example.com">
+                <div class="grid-item" data-url="https://yindan.209173.xyz/argocd/">
                     <div class="grid-content">
                         <div class="icon">📊</div>
-                        <h3>业务系统1</h3>
-                        <p>业务服务前端</p>
+                        <h3>ArgoCD</h3>
+                        <p>持续部署</p>
                     </div>
                 </div>
                 <div class="grid-item" data-url="https://business2.example.com">
