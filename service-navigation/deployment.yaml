@@ -63,7 +63,7 @@ data:
         <div class="container">
             <h1>服务导航</h1>
             <div class="grid-container">
-                <div class="grid-item" data-url="https://gitea.example.com">
+                <div class="grid-item" data-url="https://yindan.209173.xyz/gitea/">
                     <div class="grid-content">
                         <div class="icon">📁</div>
                         <h3>Gitea</h3>
